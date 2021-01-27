@@ -6,4 +6,4 @@ The result of Visualize:
 https://hoanganhpham1006.github.io/face-detector-Visualize/
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/superi99/face-detector/blob/master/%5BTraining_Triplet%5D_Facedetect.ipynb)
+[Training_Triplet] Facedetect.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/superi99/face-detector/blob/master/%5BTraining_Triplet%5D_Facedetect.ipynb)
